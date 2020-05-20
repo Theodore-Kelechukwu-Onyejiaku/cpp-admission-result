@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1589819003 source:c:\users\highestpoint\documents\c++ applications\result application\main.cpp
+	<iostream>
+	<string>
+	<iostream>
+	<fstream>
+
+1589820222 source:c:\users\theodore kelechukwu\desktop\result application\main.cpp
+	<iostream>
+	<string>
+	<iostream>
+	<fstream>
+
